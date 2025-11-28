@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👋 Welcome to my page
+I'm Crystal Alynkana, a developer with a strong passion for front-end work. I take pleasure in coding fun and interesting projects and often work at night, as the quiet atmosphere helps me concentrate.
+
+linganguliguli📣🔥🐧❤️
+
 <!--
 **CrystalAlynkana/CrystalAlynkana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
